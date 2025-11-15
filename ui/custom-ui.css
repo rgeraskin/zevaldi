@@ -1,0 +1,41 @@
+/* tabs */
+
+#tabs-tabbar-container {
+    padding: 3px;
+}
+
+/* address, commands */
+
+div.UrlBar-AddressField {
+    margin: 5px !important;
+    min-width: 95%;
+}
+
+div.quick-command-container {
+    width: 650px;
+}
+
+/* borders */
+
+div.tabbar-wrapper,
+div#tabs-tabbar-container {
+    border-radius: 10px;
+}
+
+div.tabbar-wrapper {
+    border-radius: 10px;
+    margin-left: 3px;
+}
+
+#webpage-stack {
+    border-radius: 10px;
+    margin-left: 2px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    margin-right: 4px;
+}
+
+div.panels-listener-enabled #webpage-stack {
+    border-radius: 10px;
+    margin-left: 5px;
+}

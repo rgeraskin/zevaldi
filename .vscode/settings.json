@@ -1,0 +1,10 @@
+{
+"triggerTaskOnSave.tasks": {
+    "sync": [
+        "custom-ui.js",
+        "copy-url-to-clipboard.js",
+        "custom-ui.css",
+        "window.html"
+    ]
+}
+}
