@@ -21,7 +21,7 @@
 
   const webView = document.querySelector('#webpage-stack'),
     // Keyboard shortcut combination to toggle panels/vertical-tabs auto-hide mode (e.g., 'Ctrl+C', 'F11', 'Ctrl+Shift+F')
-    autoHideToggleHotkey = 'Ctrl+C',
+    autoHideToggleHotkey = 'Ctrl+E',
 
     // Transition time for UI element animations (in seconds)
     transitionTime = 0,
