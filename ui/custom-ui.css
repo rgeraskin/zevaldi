@@ -24,18 +24,24 @@ div#tabs-tabbar-container {
 
 div.tabbar-wrapper {
     border-radius: 10px;
-    margin-left: 3px;
+    margin-left: 5px;
 }
 
 #webpage-stack {
     border-radius: 10px;
     margin-left: 2px;
-    margin-top: 4px;
-    margin-bottom: 4px;
-    margin-right: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
 }
 
 div.panels-listener-enabled #webpage-stack {
     border-radius: 10px;
     margin-left: 5px;
+}
+
+/* Start page */
+
+.startpage .startpage-navigation {
+    border-radius: 10px;
 }

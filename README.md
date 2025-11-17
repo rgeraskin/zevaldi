@@ -4,6 +4,8 @@ Highly opinionated custom tweaks for the Vivaldi browser UI with the goal of mak
 
 <video src="https://github.com/user-attachments/assets/fc0520f0-ba92-46db-b3ba-c6d8fa7bc1f3" controls></video>
 
+Compatibility: Vivaldi 7.7.3851.52 ✅
+
 ## Features
 
 - Auto‑hide header, tabs, and panel. They show on hover
