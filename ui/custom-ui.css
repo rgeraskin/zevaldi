@@ -45,3 +45,24 @@ div.panels-listener-enabled #webpage-stack {
 .startpage .startpage-navigation {
     border-radius: 10px;
 }
+
+/* New tab button */
+
+div.newtab {
+    width: 100%;
+}
+
+div.newtab button[name="NewTab"]::after {
+    content: "New tab";
+    position: absolute;
+    top: 50%;
+    left: 23%;
+    transform: translate(-50%, -50%);
+    font-size: 16px;
+    font-weight: 100;
+}
+
+div.newtab span.button-icon {
+    position: absolute;
+    left: 0%;
+}
